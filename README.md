@@ -55,7 +55,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 * **Day 5:** Final polish, documentation, and screenshots. 
 
  
-
+<a name="features"></a>
 **✨ Features** 
 
 
@@ -66,7 +66,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 * Game restart after loss. 
 
  
-
+<a name="installation-and-usage"></a>
 **💻 Installation & Usage** 
 
 
@@ -77,7 +77,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 1. Press the green flag ▶️ to start playing. 
 
  
-
+<a name="screenshots"></a>
 **🖼️ Screenshots** 
 
 ***Starting Screen:*** 
@@ -105,7 +105,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
  
 
  
-
+<a name="issues-and-solutions"></a>
 **🐛 Issues & Solutions** 
 
 
@@ -116,7 +116,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 * **Fix:** Adjusted variable update loop. 
 
  
-
+<a name="future-improvements"></a>
 **🚀 Future Improvements** 
 
 
