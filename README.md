@@ -70,7 +70,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
  
 
-**💻 Installation & Usage** 
+** Installation & Usage** 
 
 
 
