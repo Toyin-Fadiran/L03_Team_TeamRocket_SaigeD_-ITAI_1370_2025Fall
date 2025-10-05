@@ -9,24 +9,21 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 --
  
 
-**📋 Table of Contents** 
-
-
 
 **📋 Table of Contents**  
 
-1. [Group Members & Roles](#-group-members--roles)  
-2. [Project Log](#-project-log)  
-3. [Features](#-features)  
-4. [Installation and Usage](#installation-and-usage) 
-5. [Screenshots](#️-screenshots)  
-6. [Issues & Solutions](#-issues--solutions)  
-7. [Future Improvements](#-future-improvements)  
-8. [License](#-license)  
-9. [Acknowledgments](#-acknowledgments)  
+1. [Group Members and Roles](#group-members-and-roles)  
+2. [Project Log](#project-log)  
+3. [Features](#features)  
+4. [Installation and Usage](#installation-and-usage)  
+5. [Screenshots](#screenshots)  
+6. [Issues and Solutions](#issues-and-solutions)  
+7. [Future Improvements](#future-improvements)  
+8. [License](#license)  
+9. [Acknowledgments](#acknowledgments)  
 
  
-
+<a name="group-members-and-roles"></a>
 **👥 Group Members & Roles** 
 
 
@@ -41,7 +38,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 * Khuliso: Sound Design w/ Taylor 
 
  
-
+<a name="project-log"></a>
 **📆 Project Log** 
 
 (*See full detailed notes in[ ProjectLog.md](https://usc-word-edit.officeapps.live.com/we/ProjectLog.md)*) 
@@ -70,7 +67,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
  
 
-## Installation and Usage
+**💻 Installation & Usage** 
 
 
 
