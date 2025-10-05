@@ -18,7 +18,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 1. [Group Members & Roles](#-group-members--roles)  
 2. [Project Log](#-project-log)  
 3. [Features](#-features)  
-4. [Installation & Usage](#-installation--usage)  
+4. [Installation and Usage](#installation-and-usage) 
 5. [Screenshots](#️-screenshots)  
 6. [Issues & Solutions](#-issues--solutions)  
 7. [Future Improvements](#-future-improvements)  
@@ -70,7 +70,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
  
 
-** Installation & Usage** 
+## Installation and Usage
 
 
 
