@@ -71,7 +71,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
 
 
-1. Clone the repository: <code>git clone[ https://github.com/your-username/snake-game.git](https://github.com/your-username/snake-game.git)</code>  \
+1. Clone the repository: <code>git clone [https://github.com/Toyin-Fadiran/L03_Team_TeamRocket_SaigeD_-ITAI_1370_2025Fall.git](https://github.com/Toyin-Fadiran/L03_Team_TeamRocket_SaigeD_-ITAI_1370_2025Fall.git)</code>  \
   
 1. Open the `.sb3` file in[ Scratch](https://scratch.mit.edu/). 
 1. Press the green flag ▶️ to start playing. 
