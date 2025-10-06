@@ -84,17 +84,15 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 ![Landing Page](images/LandingPage.png "image_tooltip")
  
 
-**Gameplay **(avoid the animal obstacle 🐈! Capture the tomato 🍅) 
+***Gameplay:***
+(avoid the animal obstacle 🐈! Capture the tomato 🍅) 
 
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![GamePlay](images/gameplay.png "image_tooltip")
@@ -110,10 +108,9 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
 
 
-* **Issue:** Snake could reverse into itself.  
-* **Fix:** Added logic requiring two turns before reversing. 
-* **Issue:** Score not updating correctly.  
-* **Fix:** Adjusted variable update loop. 
+* **Issue:** Bug found where obstacle spawns right where taco chain link begins.  
+* **Fix:** Added logic preventing near instantaneous object spawn.	 
+
 
  
 <a name="future-improvements"></a>
@@ -122,5 +119,4 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 
 
 * Add levels with increasing difficulty. 
-* Include sound effects. 
-* Support mobile controls. 
+
