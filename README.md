@@ -41,7 +41,7 @@ A collaborative project created for 2025 Sept-Dec AI-Hist 6261-16830-ITAI-1370
 <a name="project-log"></a>
 **📆 Project Log** 
 
-(*See full detailed notes in[ ProjectLog.md](https://usc-word-edit.officeapps.live.com/we/ProjectLog.md)*) 
+(*See full detailed notes in [ProjectLog.md](./ProjectLog.md)*)
 
 
 
