@@ -1,92 +1,68 @@
-Project Log for Team 
+# Project Log for Team Rocket
 
-Made and Produced by: Saige D, Toyin F, Ranveer C, Clinton A, Khuliso M, Taylor F 
+**Made and Produced by:**  
+Saige D, Toyin F, Ranveer C, Clinton A, Khuliso M, Taylor F
 
-LINK TO SCRATCH VIDEO GAME:  
+---
 
-https://scratch.mit.edu/projects/1223743887 
+## 🎮 Link to Scratch Video Game  
+[https://scratch.mit.edu/projects/1223743887](https://scratch.mit.edu/projects/1223743887)
 
-LINK TO GITHUB REPO FOR GAME:  
+## 💻 Link to GitHub Repo  
+[https://github.com/Toyin-Fadiran/L03_Team_TeamRocket_SaigeD_-ITAI_1370_2025Fall](https://github.com/Toyin-Fadiran/L03_Team_TeamRocket_SaigeD_-ITAI_1370_2025Fall)
 
-https://github.com/Toyin-Fadiran/L03_Team_TeamRocket_SaigeD_-ITAI_1370_2025Fall 
+---
 
-Daily Log of Collaboration: 
+## 📆 Daily Log of Collaboration
 
-Day 1 (WED October 1) -- Inaugural Teams Meeting: Scratch Project Discussion 
+### Day 1 (Wed, October 1) — Inaugural Teams Meeting: Scratch Project Discussion
 
-Brainstormed and gathered requirements to implement a Snake-inspired video game, named Taco Mania! 
+- Brainstormed and gathered requirements for **Taco Mania!**, a Snake-inspired video game.
+- In the game, players collect taco ingredients while avoiding dangerous obstacles and screen edges.
+- Created a **Team Working Agreement**:
+  - Rule 1: Contribute in a timely manner and communicate with your team and leads.
+  - Rule 2: Meet daily at 8 PM CST for stand-ups (yesterday's work, today's tasks, blockers).
 
-In said video game, our team built a program where the player uses keypad controls to collect taco ingredients placed along the kitchen play area, while taking care to avoid dangerous obstacles and the edges 
+#### Group Roles Assigned:
+- **Toyin Fadiran** – Lead Documenter (notes, screenshots, README/reporting)  
+- **Saige D** – Lead Character & Background Design (movement & collision logic)  
+- **Ranveer** – Lead Programmer (sprites, UI, visuals)  
+- **Clinton** – Lead Game Tester (bug fixes, QA)  
+- **Taylor** – Lead Sound Design  
+- **Khuliso** – Sound Design Support
 
-Set up a TEAM WORKING AGREEMENT (shared expectations as a team): 
+---
 
-Rule 1: Please make sure to contribute in a timely manner and communicate with your teammates and your leads! 
+### Day 2 (Thu, October 2) — Scratch Project Collaboration
 
-Rule 2: Meet every day at 8 pm CST for a daily stand up (each member outlines what they did yesterday, what they are doing today, and blockers or issues one is facing) 
+- Daily stand-up focused on enhancing the taco-themed game:
+  - Design: Collect ingredients to grow a "taco train."
+  - Obstacles: Introduced (e.g., animals or people); collisions result in game over.
+  - Edges of the kitchen area trigger game over.
+- Shared login credentials for Scratch collaboration (Saige D).
 
-Set up each Group Member’s Roles 
+---
 
-Toyin Fadiran – Lead Documenter (notes, screenshots, README/reporting) 
+### Day 3 (Sat, October 4) — Scratch Project Updates
 
-Saide D – Lead Character and BG Design (implemented movement & collision logic) 
+#### Updates & Fixes:
+- Added kitchen background (Saige D)  
+- Improved taco movement animation (Saige D)  
+- Ensured taco starts with one instance in the chain (Saige D)  
+- Refactored game over logic to avoid infinite loops (Ranveer)  
+- Added instructions to the title screen (Ranveer)
 
-Ranveer – Lead Programmer (sprites, UI, and visuals) 
+#### Final Polish:
+- Updated themed title screen and text (Saige D)  
+- Fixed background opacity for visual clarity (Saige D)  
+- Added random obstacle spawning (Ranveer / Saige D)  
+- Implemented losing screen workflow (Ranveer)
 
-Clinton – Lead Game Tester (bug fixes, QA) 
+---
 
-Taylor – Lead Sound Design 
+### Day 4 (Sun, October 5) — Final Testing & Polish
 
-Khuliso: Sound Design w/ Taylor 
+- Full integration testing by Clinton  
+- Final sound effects added by Taylor
 
- 
-
- 
-
- 
-
-Day 2 (THU October 2) -- Second Teams Meeting: Scratch Project Collaboration 
-
-Program Design: Daily Stand-up focused primarily on enhancing Taco-themed video game  
-
-Design idea 1: collect taco-related ingredients as your taco train/link grows with the more ingredients you collect ((Saige D/Ranveer) 
-
-Place obstacles around the kitchen area (animals? People?) and if the user runs into the obstacle, they lose the game.  Also, if the user runs into edges of kitchen area (square box) going, game is instantly over (Saige D/ Ranveer) 
-
-Scratch Login/ Password collaboration credentials shared for source code updates (Saige D) 
-
-Day 3 (SAT October 4) -- Third Teams Meeting: Scratch Project Collaboration 
-
-Updates and Fixes to Scratch Block source code 
-
-added kitchen background (Saige D) 
-
- made taco float around more smoothly (Saige D) 
-
-Ensured taco icon originates with only one instance of Taco in chain link (Saige D) 
-
-Refactored losing mechanics code to avoid infinite loop (Ranveer) 
-
-Added Instructional text to title screen for user benefit (Ranveer) 
-
-
-Final Updated and Fixes to Scratch Block Source Code 
-
-
-Updated themed title screen, fixed wording (Saige D) 
-
- 
-
- 
-
- 
- 
- Fixed Background opacity (lighter --> darker) (Saige D) 
-
-Added random spawning of animal obstacles (Ranveer/Saige D) 
-Implemented Losing Screen workflow so User is aware when game is forfeited (Ranveer) 
-
-Day 4 (SUN October 5) -- Finals Teams Meeting: Scratch Project Collaboration 
-
-Integration Testing performed to ensure full functionality with above fixes (Clinton D) 
-Sound effects selected by Lead Sound Designer (Taylor F) 
-
+---
